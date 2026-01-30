@@ -1,5 +1,5 @@
 def hello_world():
-   return "Hello from action form the new feature"
+   return "Hello from action form the new features"
 
 def main():
    print(hello_world())
