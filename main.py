@@ -1,5 +1,5 @@
 def hello_world():
-   return "Hello from push request"
+   return "Hello from new-feature"
 
 def main():
    print(hello_world())
