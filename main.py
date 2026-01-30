@@ -1,5 +1,5 @@
 def hello_world():
-   return "Hello world from the pull"
+   return "Hello world from the pulled"
 
 def main():
    print(hello_world())
