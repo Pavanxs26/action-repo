@@ -1,5 +1,5 @@
 def hello_world():
-   return "Hello from new-feature"
+   return "Hello from the new-feature"
 
 def main():
    print(hello_world())
